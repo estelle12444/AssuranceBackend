@@ -255,6 +255,3 @@ http://localhost:8080/api/v1/swagger-ui.html
 - Validation des données entrantes
 - Gestion des erreurs
 - Logs des opérations
-
-## Support
-Pour toute question ou assistance, contactez l'équipe de développement. 
